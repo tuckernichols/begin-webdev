@@ -1,0 +1,33 @@
+#headerr {    /* use # for id and . for class */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: blue;
+    width : 100% ;
+    height : 120px;
+
+}
+#current-time{
+color: aliceblue;
+display: inline-block
+
+}
+#title_div {
+    padding-left: 10px;
+    width: 25%;
+    color: aliceblue;
+display: inline-block;
+}
+#ttile {
+    margin-top: 10px;
+    color: aliceblue;
+    padding-left: 15px;
+    font-size: 25px;
+    font: bold
+    
+}
+
+#space {
+    padding-top: 120;
+}
