@@ -1,7 +1,7 @@
 function updating_time () {
     const currentTimeElement = document.getElementById('current-time');
 
-    currentTimeElement.textContent = `Current Time: 12:44`;
+    currentTimeElement.textContent = `changed yay`;
 }
 
 

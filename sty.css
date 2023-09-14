@@ -11,10 +11,20 @@
 #current-time{
 color: aliceblue;
 display: inline-block
+}
+
+#time_d {
+    color: aliceblue;
+    display: inline-block;
+    padding-left: 4%;
+    width: 11%;
+
 
 }
+
+
 #title_div {
-    padding-left: 10px;
+    padding-left: 15px;
     width: 25%;
     color: aliceblue;
 display: inline-block;
@@ -24,8 +34,11 @@ display: inline-block;
     color: aliceblue;
     padding-left: 15px;
     font-size: 25px;
-    font: bold
-    
+    font: bold 
+}
+#title_info {
+padding-left: 18px;
+
 }
 
 #space {
